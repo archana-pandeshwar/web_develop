@@ -6,7 +6,11 @@ body {
     color:white ;
     background-color: #61122f;
     font-family: oxygen;
-    
+}
+.jumbotron 
+{
+    background-color: rgb(16, 223, 212);
+    padding:0;
 }
 h2 
 {
@@ -88,7 +92,7 @@ h2
 }
 p {
     font-size: 1.3em;
-    background-color: rgb(16, 223, 212);
-    padding: 30px;
+   padding-top: 20px;
+   padding-bottom: 20px;
     font-weight: bold;
 }
