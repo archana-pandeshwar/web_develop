@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[39],{BHXU:function(n,r,t){"use strict";t.r(r);var _=t("VkAN"),e=t.n(_),i=t("vOnD"),o=t("HMsx"),u=t.n(o);function a(){var n=e()(["\n  font-size: 1.8rem;\n  line-height: 1.5;\n  color: ",";\n  margin-top: 0.5rem;\n"]);return a=function(){return n},n}var A=i.default.section(a(),u.a.z600);r.default=A}}]);
+//# sourceMappingURL=desktop-Subtitle-682fafd714df8cbd0ec8.js.map

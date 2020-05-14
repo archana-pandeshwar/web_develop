@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[34],{oIhr:function(n,t,i){"use strict";i.r(t);var r=i("VkAN"),e=i.n(r);function _(){var n=e()(["\n  display: flex;\n  margin-top: 0.5rem;\n  align-items: center;\n  transition: opacity 0.2s ease-in-out;\n"]);return _=function(){return n},n}var a=i("vOnD").default.section(_());t.default=a}}]);
+//# sourceMappingURL=desktop-OpeningInfo-7e8543467bb4c24bfa6b.js.map

@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[42],{TPpo:function(n,_,t){"use strict";t.r(_);var r=t("VkAN"),u=t.n(r),e=t("vOnD"),i=t("xJdj"),o=t.n(i);function A(){var n=u()(["\n  font-size: 1.4rem;\n"]);return A=function(){return n},n}var D=Object(e.default)(o.a)(A());_.default=D}}]);
+//# sourceMappingURL=desktop-TooltipWrapper-4ca68f6031c24f346ba0.js.map

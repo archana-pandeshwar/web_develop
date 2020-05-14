@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[35],{TEFg:function(n,t,_){"use strict";_.r(t);var r=_("VkAN"),e=_.n(r),u=_("vOnD"),c=_("wcxm");function i(){var n=e()(["\n  text-align: center;\n"]);return i=function(){return n},n}var A=Object(u.default)(c.P)(i());t.default=A}}]);
+//# sourceMappingURL=desktop-PWrapper-6d5c90057b57f1ec952f.js.map

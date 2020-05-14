@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[32],{AxdK:function(n,_,r){"use strict";r.r(_);var t=r("VkAN"),e=r.n(t),u=r("vOnD"),A=r("epTT"),a=r.n(A);function i(){var n=e()(["\n  margin-left: 0.8rem;\n"]);return i=function(){return n},n}var D=Object(u.default)(a.a)(i());_.default=D}}]);
+//# sourceMappingURL=desktop-InfoLineWrapper-c5fb014b2acd06e886e8.js.map

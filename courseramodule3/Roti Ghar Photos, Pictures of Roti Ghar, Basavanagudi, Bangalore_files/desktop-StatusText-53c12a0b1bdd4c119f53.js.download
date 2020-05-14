@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[38],{fB9x:function(n,_,r){"use strict";r.r(_);var t=r("VkAN"),e=r.n(t),i=r("vOnD"),u=r("pZ4b"),o=r.n(u);function a(){var n=e()(["\n  color: ",";\n  font-size: 1.4rem;\n  line-height: 1.5;\n"]);return a=function(){return n},n}var f=i.default.span(a(),o.a.z300);_.default=f}}]);
+//# sourceMappingURL=desktop-StatusText-53c12a0b1bdd4c119f53.js.map

@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[28],{VYHO:function(n,_,r){"use strict";r.r(_);var t=r("VkAN"),u=r.n(t);function i(){var n=u()(["\n  margin-top: 1rem;\n"]);return i=function(){return n},n}var e=r("vOnD").default.section(i());_.default=e}}]);
+//# sourceMappingURL=desktop-HeadDetails-710d9200a853956d0845.js.map

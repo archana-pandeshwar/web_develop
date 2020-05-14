@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[26],{b1vU:function(n,_,r){"use strict";r.r(_);var t=r("VkAN"),u=r.n(t);function i(){var n=u()([""]);return i=function(){return n},n}var A=r("vOnD").default.div(i());_.default=A}}]);
+//# sourceMappingURL=desktop-CuisineWrapper-c6640a72aca1ff00c0ef.js.map

@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[40],{F3tt:function(n,t,e){"use strict";e.r(t);var r=e("VkAN"),_=e.n(r),i=e("vOnD"),a=e("HMsx"),u=e.n(a),o=e("kkbd");function c(){var n=_()(["\n  text-align: center;\n  @media (max-width: 768px) {\n    font-size: 1rem;\n    color: ",";\n  }\n"]);return c=function(){return n},n}var d=Object(i.default)(o.P)(c(),u.a.z600);t.default=d}}]);
+//# sourceMappingURL=desktop-SubtitleWrapper-49f30684a09bd3305a3a.js.map

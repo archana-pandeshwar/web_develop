@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[27],{AeoR:function(n,t,r){"use strict";r.r(t);var _=r("VkAN"),e=r.n(_),o=r("vOnD"),u=r("s5TX"),i=r.n(u);function A(){var n=e()(["\n  font-weight: 500;\n  font-size: 3.6rem;\n  cursor: pointer;\n"]);return A=function(){return n},n}var f=Object(o.default)(i.a)(A());t.default=f}}]);
+//# sourceMappingURL=desktop-H1Wrapper-f8181da97947b3f911fd.js.map

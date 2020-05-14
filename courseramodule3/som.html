@@ -4,12 +4,89 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE-edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title> Bootsrap starter page </title>
-        <link rel="stylesheet" href="New folder/bootstrap.min.css">
+        <title> Roti Ghar </title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+        <link rel="stylesheet" href="bootstrap.min.css">
         <link rel="stylesheet" href="styles.css">
     </head> 
     <body>
-        <h1> Hello Web why is it not showing </h1>
+        <header>
+            <nav id="header-nav" class="navbar navbar-default">
+                <div class="container">
+                <div class="navbar-header">
+                    <a href="index.html" class="pull-left visible-md visible-lg">
+                        <div id="logo"></div>
+                    </a>
+                    <div class="navbar-brand">
+                        <a href="index.html"><h1> Roti ghar</h1></a>
+                        <p>
+                        <img src="https://i.pinimg.com/originals/d8/ba/e1/d8bae18aa67bfe18bf5bb8448175772f.png" alt="certified" height="20px" width="20px">
+                        <span> certified</span>
+                        </p>
+                    </div>
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#collapsable-nav" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div id="collapsable-nav" class="collapse navbar-collapse">
+                    <ul id="nav-list" class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="menu-categories.html" style="padding-right: 40px">
+                                <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs">
+                                Menu
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" style="padding-right: 40px">
+                                <span class="glyphicon glyphicon-info-sign"></span><br class="hidden-xs">
+                                About
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" style="padding-right: 40px">
+                                <span class="glyphicon glyphicon-certificate"></span>
+                                <br class="hidden-xs"> Awards 
+                            </a>
+                        </li>
+                        <li id="phone" style="padding-right: 40px" class="hidden-xs">
+                            <a href="tel:918026622760">
+                                <span>8026622760</span>
+                            </a>
+                            <div>* We deliver</div>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+            </nav>
+        </header>
+        <div id="main-content" class="container">
+            <div class="jumbotron">
+                <img src="https://member-photos-782-524.s3-ap-southeast-1.amazonaws.com/18345-1552475428-wm-roti-ghar-party-hall-basavanagudi-3.jpg" alt="Picture of restuarant"
+                class="img-responsive visible-xs">
+            </div>
+            <div id="home-tiles" class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <a href="menucategories.html"><div id="menu-title"><span>Menu</span></div></a>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <a href="specialcategories.html"><div id="specials-title"><span>Specials</span></div></a>
+                </div>
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <a href="https://goo.gl/maps/NnPfU2HbS6appEDF6" target="_blank"><div id="map-title">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.4204171854767!2d77.56969201457764!3d12.944928090873423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15f2ea1eda2f%3A0xe74c5463097e8ee5!2sUD%20ROTIGHAR%20RESTAURANT%20%26%20PARTY%20HALLS%20-%20Basavanagudi!5e0!3m2!1sen!2sin!4v1589198584447!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <span>Map</span></div></a>
+                </div>
+                </div>
+            </div>
+        </div>
         <script src="New folder/jquery.min.js"></script>
         <script src="New folder/bootstrap.min.js"></script>
         <script src="script.js"> </script>

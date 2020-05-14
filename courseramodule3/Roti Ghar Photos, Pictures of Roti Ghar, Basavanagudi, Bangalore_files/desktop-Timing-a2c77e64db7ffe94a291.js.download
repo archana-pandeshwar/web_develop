@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[41],{O4dA:function(n,r,e){"use strict";e.r(r);var t=e("VkAN"),_=e.n(t),i=e("vOnD"),o=e("HMsx"),u=e.n(o);function a(){var n=_()(["\n  color: ",";\n  font-size: 1.4rem;\n  line-height: 1.5;\n  &:before {\n    content: '-';\n    margin: 0 1rem;\n  }\n"]);return a=function(){return n},n}var A=i.default.span(a(),u.a.z600);r.default=A}}]);
+//# sourceMappingURL=desktop-Timing-a2c77e64db7ffe94a291.js.map
