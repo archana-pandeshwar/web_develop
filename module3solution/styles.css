@@ -7,10 +7,12 @@ body {
     background-color: #61122f;
     font-family: oxygen;
 }
-.jumbotron 
+.row
 {
     background-color: rgb(16, 223, 212);
-    padding:0;
+    padding:25px;
+    margin-right: 30px;
+    margin-left: 30px;
 }
 h2 
 {
