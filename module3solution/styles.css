@@ -25,6 +25,7 @@ section {
      font-weight: bold;
      line-height: 1.8;
      font-size: 1em;
+     width: 100%;
 }
 h3 {
     text-align: center;
